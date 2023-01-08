@@ -1,0 +1,197 @@
+.container {
+  height: 80px;
+  width: 100%;
+  max-width: 1380px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+
+  h1 {
+    color: #0499dd;
+    font-family: sans-serif;
+  }
+  a {
+    text-decoration-color: black;
+    color: #282828;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 30px;
+  }
+}
+
+.container2 {
+  height: 550px;
+  width: 100%;
+  width: 1380px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  gap: 0 40px;
+  justify-content: center;
+
+  .cards {
+    width: 360px;
+    height: 497px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-image: url(/images/Rectangle\ 13.png);
+  }
+
+  .cards2 {
+    width: 360px;
+    height: 497px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-image: url(/images/Rectangle\ 13\ \(1\).png);
+  }
+  p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 18px;
+    position: absolute;
+    padding-top: 167px;
+    padding-left: 20px;
+  }
+
+  .paragraph {
+    padding-top: 189px;
+    color: #ffc700;
+    font-family: sans-serif;
+    font-size: 19px;
+    padding-left: 20px;
+  }
+
+  .img {
+    margin-top: 240px;
+    width: 20px;
+    padding-left: 20px;
+  }
+
+  .spn {
+    color: #fff;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-left: 15px;
+    opacity: 80%;
+  }
+
+  .coin {
+    margin-top: 240px;
+    width: 23px;
+    padding-left: 20px;
+    position: absolute;
+  }
+
+  .bolder {
+    color: #fff;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-left: 58px;
+    opacity: 80%;
+    font-weight: 400;
+  }
+
+  .paragraph2 {
+    font-size: 15px;
+    padding-top: 1px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .paragraph3 {
+    font-size: 15px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .paragraph4 {
+    font-size: 15px;
+    padding-top: 38px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .paragraph5 {
+    font-size: 15px;
+    padding-top: 58px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .paragraph6 {
+    font-size: 15px;
+    padding-top: 78px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .paragraph7 {
+    font-size: 15px;
+    padding-top: 98px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .paragraph8 {
+    font-size: 15px;
+    padding-top: 138px;
+    font-family: sans-serif;
+    padding-left: 20px;
+  }
+
+  .btn {
+    width: 180px;
+    height: 50px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: #fff;
+    background: linear-gradient(92.71deg, #0499dd 0%, #17c1bc 100%);
+    font-family: sans-serif;
+  }
+
+  .cards3 {
+    width: 360px;
+    height: 497px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-image: url(/images/Rectangle\ 13\ \(2\).png);
+  }
+}
+
+.container3 {
+  height: 150px;
+  width: 100%;
+  width: 1380px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  
+  .img2 {
+    padding-right: 50px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+  }
+
+  .img3 {
+    padding-right: 50px;
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+  }
+
+  .line {
+    width: 1050px;
+    height: 30px;
+    padding-top: 60px;
+  }
+}
