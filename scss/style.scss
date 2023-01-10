@@ -165,15 +165,15 @@
 }
 
 .container3 {
-  height: 150px;
-  width: 100%;
-  width: 1380px;
-  padding-left: 30px;
-  padding-right: 30px;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  
+    height: 150px;
+    width: 100%;
+    width: 1380px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+
   .img2 {
     padding-right: 50px;
     margin-left: 50px;
@@ -196,6 +196,7 @@
   }
 }
 
+<<<<<<< HEAD
 
 * {
     margin: 0;
@@ -580,3 +581,155 @@
         }
     }
 }
+=======
+   .container-footer {
+    height: 640px;
+    width: 100%;
+    width: 1380px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;  
+    background-color: blueviolet;
+    background-image: url(/images/Rectangle\ 27.png);
+    padding-left: 800px;
+    width: 550px;
+
+
+    .footer-img {
+    width: 600px;
+    backdrop-filter: blur(4px);
+    }
+
+    .footer-text {
+    font-size: 35px;
+    color: #fff;
+    font-family: sans-serif;
+    padding-left: 100px;
+    margin-top: 70px;
+    position: absolute;
+    }
+
+    .footer-text2 {
+    color: #ffc700;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 85px;
+    }
+
+    .footer-text3 {
+      padding-left: 100px;
+      font-size: 20px;
+      color: #fff;
+      font-family: sans-serif;
+      position: absolute;
+    }
+
+    .footer-img2 {
+      padding-top: 45px;
+      padding-left: 100px;
+    }
+
+    .footer-text4 {
+      padding-left: 100px;
+      font-size: 20px;
+      color: #fff;
+      font-family: sans-serif;
+      position: absolute;
+      padding-top: 30px;
+    }
+
+    .footer-img3 {
+      padding-top: 75px;
+      padding-left: 100px;
+    }
+
+    .footer-btn {
+      width: 180px;
+      height: 50px;
+      border-radius: 40px;
+      font-size: 17px;
+      color: #fff;
+      background: linear-gradient(92.71deg, #0499dd 0%, #17c1bc 100%);
+      font-family: sans-serif;
+      border: none;
+      margin-left: 100px;
+      margin-top: 80px;
+    }
+}
+
+  .container-info {
+    height: 240px;
+    width: 100%;
+    width: 1380px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;  
+    gap: 20px;
+    justify-content: center;
+
+    .first-info-div  {
+      width: 300px;
+    }
+
+    .info-parachute {
+      height: 150px;
+      padding-top: 30px;
+    }
+
+    p {
+      font-size: 20px;
+      opacity: 70%;
+      font-family: sans-serif;
+      margin-top: 40px;
+    }
+
+    .whats-up {
+      padding-top: 40px;
+      padding-left: 40px;
+    }
+
+    .number {
+      font-size: 20px;
+      font-family: sans-serif;
+      opacity: 70%;
+    }
+
+    .telegram {
+      padding-left: 40px;
+    }
+
+    .mail-info {
+      padding-top: 40px;
+      padding-left: 50px;
+    }
+
+    .email {
+      opacity: 70%;
+      font-size: 20px;
+      position: absolute;
+      padding-top: 37px;
+      padding-left: 10px;
+    }
+    
+    .inst-info {
+     padding-left: 40px;
+     position: absolute;
+     padding-left: 50px;
+    }
+
+    .wk {
+      position: absolute;
+       padding-top: 7px;
+       padding-left: 100px;
+    }
+
+    .facebook {
+      padding-left: 150px;
+    }
+}
+>>>>>>> 29bc0b4947bb367cb7e115bb2fb4e813455a29f7
